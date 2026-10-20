@@ -18,7 +18,7 @@
 | # | Video | Repositorio | Tecnologías |
 | --- | --- | --- | --- |
 | 1 | [n8n desde cero: crea un bot de noticias con IA y Telegram](https://youtu.be/VuJmM_N0J8k) | [n8n-daily-news-bot](https://github.com/AguiCode7/n8n-daily-news-bot) | n8n · OpenAI · Telegram |
-| 2 | Conecta n8n a tu propia API en .NET *(muy pronto)* | aguinews-api *(muy pronto)* | .NET · Clean Architecture · PostgreSQL · n8n |
+| 2 | [API en .NET con Clean Architecture y PostgreSQL + n8n](https://youtu.be/CIM9Qja3Xow) | [aguinews-api](https://github.com/AguiCode7/aguinews-api) | .NET · Clean Architecture · PostgreSQL · n8n |
 
 ### 🧰 Con qué trabajamos
 
