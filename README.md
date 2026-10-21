@@ -19,6 +19,7 @@
 | --- | --- | --- | --- |
 | 1 | [n8n desde cero: crea un bot de noticias con IA y Telegram](https://youtu.be/VuJmM_N0J8k) | [n8n-daily-news-bot](https://github.com/AguiCode7/n8n-daily-news-bot) | n8n · OpenAI · Telegram |
 | 2 | [API en .NET con Clean Architecture y PostgreSQL + n8n](https://youtu.be/CIM9Qja3Xow) | [aguinews-api](https://github.com/AguiCode7/aguinews-api) | .NET · Clean Architecture · PostgreSQL · n8n |
+| 3 | [Angular 22: tu sitio de noticias con Signals y httpResource](https://youtu.be/zutLQhcb0bM) | [aguinews-dashboard](https://github.com/AguiCode7/aguinews-dashboard) | Angular 22 · Signals · httpResource · Tailwind · Vitest |
 
 ### 🧰 Con qué trabajamos
 
