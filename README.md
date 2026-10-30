@@ -21,6 +21,7 @@
 | 2 | [API en .NET con Clean Architecture y PostgreSQL + n8n](https://youtu.be/CIM9Qja3Xow) | [aguinews-api](https://github.com/AguiCode7/aguinews-api) | .NET · Clean Architecture · PostgreSQL · n8n |
 | 3 | [Angular 22: tu sitio de noticias con Signals y httpResource](https://youtu.be/zutLQhcb0bM) | [aguinews-dashboard](https://github.com/AguiCode7/aguinews-dashboard) | Angular 22 · Signals · httpResource · Tailwind · Vitest |
 | 4 | [Una IA lee 7 blogs en inglés y me deja las 5 mejores en español](https://youtu.be/HhHvUosNz4E) | [aguinews-api](https://github.com/AguiCode7/aguinews-api/tree/v004) · [aguinews-dashboard](https://github.com/AguiCode7/aguinews-dashboard/tree/v004) | n8n · IA (OpenRouter) · .NET · Angular 22 |
+| 5 | [Docker por dentro: por qué NO es una máquina virtual](https://youtu.be/dAtOheXsdXc) | [docker-aguinews-lab](https://github.com/AguiCode7/docker-aguinews-lab) | Docker · Compose · Dockerfile multi-stage · .NET · PostgreSQL |
 
 ▶️ Serie completa: [Proyecto AguiNews](https://www.youtube.com/playlist?list=PLSpS3teXK-LM)
 
