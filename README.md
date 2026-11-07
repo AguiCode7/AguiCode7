@@ -44,6 +44,6 @@
 - Código en **inglés**, comentarios en **español**.
 - **Nada hardcodeado**: configuración y secretos fuera del código.
 
-### 💬 ¿Quieres un tema?
+### 💬 ¿Quieres más?
 
-Déjalo en los comentarios de los videos en [YouTube](https://www.youtube.com/channel/UCOwIey0vGlYkZBgF29ASn3A). ¡Suscríbete y nos vemos en el próximo video!
+Mira los videos nuevos en [YouTube](https://www.youtube.com/channel/UCOwIey0vGlYkZBgF29ASn3A). ¡Suscríbete y nos vemos en el próximo video!
